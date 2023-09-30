@@ -1,6 +1,7 @@
 .header-container {
    height: 200px;
-   background: #1F2937; 
+   background-color: #1F2937;
+   display: flex;
 }
 
 .left-side-header {
